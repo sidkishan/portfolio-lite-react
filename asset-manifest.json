@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/portfolio-lite-react/static/css/main.f94b6e78.css",
+    "main.js": "/portfolio-lite-react/static/js/main.33ea4fe0.js",
+    "static/media/R.P.V.Portrait Studio_248386 copy.jpg": "/portfolio-lite-react/static/media/R.P.V.Portrait Studio_248386 copy.9c9e6a23026db0870275.jpg",
+    "index.html": "/portfolio-lite-react/index.html",
+    "main.f94b6e78.css.map": "/portfolio-lite-react/static/css/main.f94b6e78.css.map",
+    "main.33ea4fe0.js.map": "/portfolio-lite-react/static/js/main.33ea4fe0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f94b6e78.css",
+    "static/js/main.33ea4fe0.js"
+  ]
+}

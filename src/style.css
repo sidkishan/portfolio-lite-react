@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+.nav-bar {
+  background-color: black;
+  text-align: center;
+  color: white;
+}
+.nav-bar .menu a {
+  text-decoration: none;
+  color: tomato;
+  padding-right: 10px;
+}
+.about-me h1 {
+  text-align: center;
+}
+
+.about-me img {
+  width: 250px;
+  height: 260px;
+  border: 1px solid black;
+  display: block;
+  margin: auto;
+  border-radius: 60%;
+}
+.section h1 {
+  text-align: center;
+}
+.footer {
+  background-color: rgb(142, 83, 83);
+  padding: 10px;
+  color: black;
+}
+.footer p {
+  font-size: large;
+  text-align: center;
+}
+
+.footer a {
+  color: burlywood;
+  text-align: center;
+  padding: 0 5px;
+}
+.footer div {
+  text-align: center;
+}
